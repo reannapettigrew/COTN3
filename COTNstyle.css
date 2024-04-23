@@ -1,0 +1,2032 @@
+.hero-image-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1438.5px;
+  	height: 845.9px;
+  	object-fit: cover;
+}
+.logo-icon {
+	width: 100%;
+	position: absolute;
+	margin: 0 !important;
+	top: 23px;
+	left: 99px;
+	height: 80px;
+	object-fit: cover;
+	border: none;
+	}
+.sponsor-a-child {
+  	position: relative;
+  	line-height: 24px;
+  	font-weight: 600;
+}
+.sponsor-a-child-wrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(191, 49, 26, 0.9);
+  	border: 1px solid #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 16px 32px;
+}
+.get-to-know-us-wrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 203.88px;
+  	background-color: rgba(191, 49, 26, 0.9);
+  	border: 1px solid #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 16px 32px;
+	width: 120px;
+}
+.hero-buttons1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 384.9px;
+  	height: 56px;
+}
+.hero-buttons {
+  	position: absolute;
+  	top: 718px;
+  	left: 554.73px;
+  	width: 384.9px;
+  	height: 56px;
+}
+.red-container {
+  	position: absolute;
+  	top: 400.59px;
+  	left: 398.58px;
+  	background-color: rgba(191, 49, 26, 0.9);
+  	width: 641.3px;
+  	height: 265.4px;
+}
+.raising-children {
+  	margin: 0;
+}
+.raising-children-who-container1 {
+  	width: 100%;
+}
+.raising-children-who-container {
+  	position: absolute;
+  	top: 478px;
+  	left: 429.33px;
+  	font-size: 48px;
+  	line-height: 75px;
+  	display: flex;
+  	align-items: center;
+  	width: 578.8px;
+  	height: 152px;
+}
+.children-of-the {
+  	position: absolute;
+  	top: 429px;
+  	left: 596.86px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 244.8px;
+  	height: 29px;
+}
+.hero-section {
+  	width: 1438.5px;
+  	position: relative;
+  	height: 845.9px;
+  	z-index: 0;
+  	text-align: center;
+}
+.container {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(191, 49, 26, 0.2);
+  	width: 746px;
+  	height: 427px;
+}
+.featureimage-icon {
+  	position: absolute;
+  	top: 28.84px;
+  	left: 30.5px;
+  	width: 683.8px;
+  	height: 368.2px;
+  	object-fit: cover;
+}
+.imagecontainer {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 746px;
+  	height: 427px;
+}
+.feature-post-image {
+  	position: absolute;
+  	top: 0px;
+  	left: 550px;
+  	width: 746px;
+  	height: 427px;
+}
+.take-action-button {
+  	position: absolute;
+  	top: 247px;
+  	left: 0px;
+  	background-color: #bf311a;
+  	width: 190px;
+  	height: 48px;
+}
+.take-action {
+  	position: absolute;
+  	top: 259px;
+  	left: 51px;
+  	line-height: 24px;
+}
+.be {
+  	text-transform: capitalize;
+}
+.be-a-nation-container {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 28px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 207px;
+}
+.be-a-nation-changer-section-child {
+  	position: absolute;
+  	top: 17px;
+  	left: 207px;
+  	border-top: 1px solid rgba(0, 0, 0, 0.25);
+  	box-sizing: border-box;
+  	width: 83px;
+  	height: 1px;
+}
+.take-action-today {
+  	position: absolute;
+  	top: 44px;
+  	left: 0px;
+  	font-size: 39px;
+  	line-height: 50px;
+  	display: inline-block;
+  	font-family: Raleway;
+  	width: 483px;
+}
+.this-section-is-container {
+  	position: absolute;
+  	top: 110px;
+  	left: 0px;
+  	line-height: 26px;
+  	color: #444;
+  	display: inline-block;
+  	width: 483px;
+}
+.be-a-nation-changer-section {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 483px;
+  	height: 214px;
+  	font-size: 20px;
+  	color: #252a34;
+  	font-family: 'Open Sans';
+}
+.feature-posts-section {
+  	width: 1296px;
+  	position: relative;
+  	height: 427px;
+  	z-index: 1;
+}
+.container-4 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 0px 10px 25px rgba(37, 42, 52, 0.08);
+  	background-color: #fff;
+  	width: 306px;
+  	height: 496px;
+}
+.sponsor-me {
+  	position: relative;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+}
+.button {
+  	position: absolute;
+  	top: 426px;
+  	left: 20px;
+  	background-color: #bf311a;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 8px 16px;
+}
+.malawi {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 26px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	font-family: Raleway;
+  	display: inline-block;
+  	width: 54px;
+  	height: 21.8px;
+}
+.zolina-b {
+  	position: absolute;
+  	top: 35.19px;
+  	left: 0px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	display: inline-block;
+  	color: #252a34;
+  	width: 86px;
+  	height: 23.5px;
+}
+.age-8 {
+  	margin-block-start: 0;
+  	margin-block-end: 5px;
+}
+.age-8-birthday-container {
+  	position: absolute;
+  	top: 72.05px;
+  	left: 0px;
+  	line-height: 22px;
+  	text-transform: capitalize;
+  	color: #444;
+  	display: inline-block;
+  	width: 171px;
+  	height: 41.1px;
+}
+.namecountryage {
+  	position: absolute;
+  	top: 275.89px;
+  	left: 20px;
+  	width: 171px;
+  	height: 113.1px;
+  	color: #bf311a;
+  	font-family: 'Open Sans';
+}
+.sponsorphoto4-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 306px;
+  	height: 250px;
+  	object-fit: cover;
+}
+.sponsor-card-4 {
+  	position: absolute;
+  	top: 200px;
+  	left: 990px;
+  	width: 306px;
+  	height: 496px;
+}
+.dominican-republic {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 26px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	font-family: Raleway;
+  	display: inline-block;
+  	width: 152px;
+  	height: 21.8px;
+}
+.adrien-m {
+  	position: absolute;
+  	top: 35.19px;
+  	left: 0px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	display: inline-block;
+  	color: #252a34;
+  	width: 97px;
+  	height: 23.5px;
+}
+.age-17-birthday-container {
+  	position: absolute;
+  	top: 72.05px;
+  	left: 0px;
+  	line-height: 22px;
+  	text-transform: capitalize;
+  	color: #444;
+  	display: inline-block;
+  	width: 217px;
+  	height: 41.1px;
+}
+.namecountryage1 {
+  	position: absolute;
+  	top: 274.89px;
+  	left: 20px;
+  	width: 217px;
+  	height: 113.1px;
+  	color: #bf311a;
+}
+.sponsor-card-3 {
+  	position: absolute;
+  	top: 200px;
+  	left: 660px;
+  	width: 306px;
+  	height: 496px;
+  	font-family: 'Open Sans';
+}
+.uganda {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 26px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	font-family: Raleway;
+  	display: inline-block;
+  	width: 60px;
+  	height: 21.8px;
+}
+.naomi-s {
+  	position: absolute;
+  	top: 35.19px;
+  	left: 0px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	display: inline-block;
+  	color: #252a34;
+  	width: 89px;
+  	height: 23.5px;
+}
+.age-12-birthday-container {
+  	position: absolute;
+  	top: 78.11px;
+  	left: 0px;
+  	line-height: 22px;
+  	text-transform: capitalize;
+  	color: #444;
+  	display: inline-block;
+  	width: 200px;
+  	height: 49px;
+}
+.namecountryage2 {
+  	position: absolute;
+  	top: 273.89px;
+  	left: 20px;
+  	width: 200px;
+  	height: 127.1px;
+  	color: #bf311a;
+  	font-family: 'Open Sans';
+}
+.sponsor-card-2 {
+  	position: absolute;
+  	top: 200px;
+  	left: 330px;
+  	width: 306px;
+  	height: 496px;
+}
+.patience-w {
+  	position: absolute;
+  	top: 35px;
+  	left: 0px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	display: inline-block;
+  	width: 122px;
+  	height: 24px;
+}
+.sierra-leone {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 26px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	font-family: Raleway;
+  	color: #bf311a;
+}
+.age-7-birthday-container {
+  	position: absolute;
+  	top: 80px;
+  	left: 0px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	color: #444;
+}
+.namecountryage3 {
+  	position: absolute;
+  	top: 274px;
+  	left: 20px;
+  	width: 218px;
+  	height: 133px;
+  	color: #252a34;
+  	font-family: 'Open Sans';
+}
+.sponsor-card-1 {
+  	position: absolute;
+  	top: 200px;
+  	left: 0px;
+  	width: 306px;
+  	height: 496px;
+}
+.forwards-button-1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 76px;
+  	width: 56px;
+  	height: 56px;
+}
+.backwards-button-1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 56px;
+  	height: 56px;
+}
+.forward-back-buttons {
+  	position: absolute;
+  	top: 88px;
+  	left: 1164px;
+  	width: 132px;
+  	height: 56px;
+}
+.view-all {
+  	position: absolute;
+  	top: 104px;
+  	left: 1066px;
+  	font-size: 20px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	color: #bf311a;
+}
+.change-the-world-container {
+  	position: absolute;
+  	top: 44px;
+  	left: 2px;
+  	font-size: 39px;
+  	line-height: 50px;
+  	color: #252a34;
+}
+.line {
+  	position: absolute;
+  	top: 16.5px;
+  	left: 161.5px;
+  	border-top: 1px solid rgba(0, 0, 0, 0.25);
+  	box-sizing: border-box;
+  	width: 83px;
+  	height: 1px;
+}
+.sponsor-a-child-container {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	font-weight: 600;
+  	font-family: 'Open Sans';
+  	color: #252a34;
+}
+.sponsor-a-child-section {
+  	width: 1296px;
+  	position: relative;
+  	height: 696px;
+  	z-index: 2;
+}
+.learn-more-button {
+  	position: absolute;
+  	top: 273px;
+  	left: 3px;
+  	background-color: #bf311a;
+  	width: 196px;
+  	height: 48px;
+}
+.learn-more {
+  	position: absolute;
+  	top: 286px;
+  	left: 57px;
+  	font-size: 16px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	color: #fff;
+}
+.the-children-of-container {
+  	position: absolute;
+  	top: 110px;
+  	left: 0px;
+  	line-height: 26px;
+  	font-family: 'Open Sans';
+  	color: #444;
+}
+.give-pray-go {
+  	position: absolute;
+  	top: 44px;
+  	left: 0px;
+  	font-size: 39px;
+  	line-height: 50px;
+  	text-transform: capitalize;
+}
+.line1 {
+  	position: absolute;
+  	top: 17px;
+  	left: 179px;
+  	border-top: 1px solid rgba(0, 0, 0, 0.25);
+  	box-sizing: border-box;
+  	width: 83px;
+  	height: 1px;
+}
+.venture-program {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	font-family: 'Open Sans';
+}
+.venture-trip-section1 {
+  	position: absolute;
+  	top: 41px;
+  	left: 786px;
+  	width: 493px;
+  	height: 321px;
+}
+.venture-trip-section {
+  	width: 1279px;
+  	position: relative;
+  	height: 427px;
+  	z-index: 3;
+  	font-size: 20px;
+  	color: #252a34;
+}
+.container-41 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 0px 10px 25px rgba(37, 42, 52, 0.08);
+  	background-color: #fff;
+  	width: 306px;
+  	height: 592px;
+}
+.button4 {
+  	position: absolute;
+  	top: 525px;
+  	left: 20px;
+  	background-color: #bf311a;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 8px 16px;
+}
+.giving-in-memory {
+  	position: absolute;
+  	top: 42px;
+  	left: 0px;
+  	font-size: 18px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	display: inline-block;
+  	width: 262px;
+}
+.susan-price-had-container {
+  	position: absolute;
+  	top: 104px;
+  	left: 0px;
+  	line-height: 22px;
+  	color: #444;
+  	display: inline-block;
+  	width: 230px;
+}
+.details-child {
+  	position: absolute;
+  	top: 22px;
+  	left: 0px;
+  	background-color: rgba(191, 49, 26, 0.15);
+  	width: 267px;
+  	height: 8px;
+}
+.details-item {
+  	position: absolute;
+  	top: 22px;
+  	left: 0px;
+  	background-color: #bf311a;
+  	width: 205px;
+  	height: 8px;
+}
+.div {
+  	position: absolute;
+  	top: 0px;
+  	left: 239px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.raised-1500 {
+  	position: absolute;
+  	top: 46px;
+  	left: 0px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.goal-2000 {
+  	position: absolute;
+  	top: 46px;
+  	left: 181px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.donations {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.details {
+  	position: absolute;
+  	top: 162px;
+  	left: 0px;
+  	width: 267px;
+  	height: 62px;
+  	font-size: 14px;
+}
+.description {
+  	position: absolute;
+  	top: 272px;
+  	left: 20px;
+  	width: 267px;
+  	height: 224px;
+  	color: #252a34;
+  	font-family: 'Open Sans';
+}
+.cause-card-4 {
+  	position: absolute;
+  	top: 154px;
+  	left: 990px;
+  	width: 306px;
+  	height: 592px;
+}
+.partner-with-cotn-container {
+  	position: absolute;
+  	top: 42px;
+  	left: 0px;
+  	font-size: 18px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+}
+.from-the-video-container {
+  	position: absolute;
+  	top: 104px;
+  	left: 0px;
+  	line-height: 22px;
+  	color: #444;
+  	display: inline-block;
+  	width: 267px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 22px;
+  	left: 0px;
+  	background-color: #bf311a;
+  	width: 247px;
+  	height: 8px;
+}
+.div1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 235px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.goal-10000 {
+  	position: absolute;
+  	top: 46px;
+  	left: 173px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.cause-card-3 {
+  	position: absolute;
+  	top: 154px;
+  	left: 660px;
+  	width: 306px;
+  	height: 592px;
+}
+.help-provide-hygiene {
+  	position: absolute;
+  	top: 104px;
+  	left: 0px;
+  	line-height: 22px;
+  	color: #444;
+  	display: inline-block;
+  	width: 236px;
+}
+.details-child2 {
+  	position: absolute;
+  	top: 22px;
+  	left: 0px;
+  	background-color: #bf311a;
+  	width: 229px;
+  	height: 8px;
+}
+.div2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 236px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.description1 {
+  	position: absolute;
+  	top: 272px;
+  	left: 20px;
+  	width: 267px;
+  	height: 224px;
+}
+.button6 {
+  	position: absolute;
+  	top: 525px;
+  	left: 20px;
+  	background-color: #bf311a;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 8px 16px;
+  	color: #fff;
+  	font-family: Raleway;
+}
+.cause-card-2 {
+  	position: absolute;
+  	top: 154px;
+  	left: 330px;
+  	width: 306px;
+  	height: 592px;
+  	color: #252a34;
+  	font-family: 'Open Sans';
+}
+.philanthropy {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 26px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	font-family: Raleway;
+}
+.feeding-thousands-of-container {
+  	position: absolute;
+  	top: 102px;
+  	left: 0px;
+  	line-height: 22px;
+  	color: #444;
+  	display: inline-block;
+  	width: 243px;
+}
+.details-child3 {
+  	position: absolute;
+  	top: 137px;
+  	left: 0px;
+  	background-color: rgba(191, 49, 26, 0.15);
+  	width: 267px;
+  	height: 8px;
+}
+.details-child4 {
+  	position: absolute;
+  	top: 137px;
+  	left: 0px;
+  	background-color: #bf311a;
+  	width: 170px;
+  	height: 8px;
+}
+.div3 {
+  	position: absolute;
+  	top: 116px;
+  	left: 239px;
+  	font-size: 12px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.raised-600 {
+  	position: absolute;
+  	top: 162px;
+  	left: 0px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.goal-1000 {
+  	position: absolute;
+  	top: 162px;
+  	left: 182px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.donations3 {
+  	position: absolute;
+  	top: 116px;
+  	left: 0px;
+  	line-height: 16px;
+  	text-transform: capitalize;
+}
+.support-bellingham-rotary-container {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 18px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+}
+.details3 {
+  	position: absolute;
+  	top: 41px;
+  	left: 0px;
+  	width: 267px;
+  	height: 178px;
+  	font-size: 14px;
+  	color: #252a34;
+}
+.description2 {
+  	position: absolute;
+  	top: 274px;
+  	left: 20px;
+  	width: 267px;
+  	height: 219px;
+  	color: #bf311a;
+  	font-family: 'Open Sans';
+}
+.cause-card-1 {
+  	position: absolute;
+  	top: 154px;
+  	left: 0px;
+  	width: 306px;
+  	height: 592px;
+}
+.forward-back-buttons1 {
+  	position: absolute;
+  	top: 42px;
+  	left: 1164px;
+  	width: 132px;
+  	height: 56px;
+}
+.view-all1 {
+  	position: absolute;
+  	top: 58px;
+  	left: 1066px;
+  	font-size: 20px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	color: #bf311a;
+}
+.find-a-cause {
+  	position: absolute;
+  	top: 44px;
+  	left: 0px;
+  	font-size: 39px;
+  	line-height: 50px;
+  	text-transform: capitalize;
+  	color: #252a34;
+}
+.line2 {
+  	position: absolute;
+  	top: 17.5px;
+  	left: 191.5px;
+  	border-top: 1px solid rgba(0, 0, 0, 0.25);
+  	box-sizing: border-box;
+  	width: 83px;
+  	height: 1px;
+}
+.partner-with-cotn1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	font-family: 'Open Sans';
+  	color: #252a34;
+}
+.partner-with-cotn-section {
+  	width: 1296px;
+  	position: relative;
+  	height: 746px;
+  	z-index: 4;
+}
+.gift-catalog-image {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 636px;
+  	height: 679px;
+  	object-fit: cover;
+}
+.give-today-button {
+  	position: absolute;
+  	top: 195px;
+  	left: 228px;
+  	background-color: rgba(191, 49, 26, 0.9);
+  	border: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 181px;
+  	height: 56px;
+}
+.give-today {
+  	position: absolute;
+  	top: 211px;
+  	left: 277px;
+  	line-height: 24px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 83px;
+  	height: 24px;
+}
+.gift-catalog {
+  	position: absolute;
+  	top: 104px;
+  	left: 206px;
+  	font-size: 35px;
+  	letter-spacing: 0.03em;
+  	line-height: 50px;
+  	text-transform: capitalize;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 223px;
+  	height: 50px;
+}
+.gift-catalog-card-child {
+  	position: absolute;
+  	top: 59.5px;
+  	left: 459.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.4);
+  	box-sizing: border-box;
+  	width: 61px;
+  	height: 1px;
+}
+.your-gift-changes {
+  	position: absolute;
+  	top: 46px;
+  	left: 175px;
+  	font-size: 24px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 282px;
+  	height: 28px;
+}
+.gift-catalog-card-item {
+  	position: absolute;
+  	top: 59.5px;
+  	left: 114.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.4);
+  	box-sizing: border-box;
+  	width: 61px;
+  	height: 1px;
+}
+.gift-catalog-card {
+  	width: 636px;
+  	position: relative;
+  	height: 679px;
+  	z-index: 5;
+  	text-align: center;
+}
+.donate-now-button {
+  	position: absolute;
+  	top: 193px;
+  	left: 226px;
+  	background-color: rgba(191, 49, 26, 0.9);
+  	border: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 181px;
+  	height: 56px;
+}
+.donate-now {
+  	position: absolute;
+  	top: 210px;
+  	left: 268px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 94px;
+  	height: 23px;
+}
+.other {
+  	position: absolute;
+  	top: 0px;
+  	left: 481.94px;
+  	background-color: #fff;
+  	border: 1px solid #bf311a;
+  	box-sizing: border-box;
+  	width: 87.1px;
+  	height: 41.9px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 20px;
+}
+.div4 {
+  	position: absolute;
+  	top: 0px;
+  	left: 354.63px;
+  	background-color: #fff;
+  	border: 1px solid #bf311a;
+  	box-sizing: border-box;
+  	width: 102.1px;
+  	height: 41.9px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 20px;
+}
+.div6 {
+  	position: absolute;
+  	top: 0.27px;
+  	left: 234.42px;
+  	background-color: #fff;
+  	border: 1px solid #bf311a;
+  	box-sizing: border-box;
+  	width: 95.1px;
+  	height: 41.9px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 20px;
+}
+.div8 {
+  	position: absolute;
+  	top: 0.27px;
+  	left: 116.2px;
+  	background-color: #fff;
+  	border: 1px solid #bf311a;
+  	box-sizing: border-box;
+  	width: 93.1px;
+  	height: 41.9px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 20px;
+}
+.div10 {
+  	position: absolute;
+  	top: 0.27px;
+  	left: 0px;
+  	background-color: rgba(191, 49, 26, 0.9);
+  	border: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 91.1px;
+  	height: 41.9px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 20px;
+  	color: #fff;
+}
+.donation-amounts {
+  	position: absolute;
+  	top: 117px;
+  	left: 31.37px;
+  	width: 569px;
+  	height: 42.2px;
+  	color: rgba(191, 49, 26, 0.8);
+  	font-family: Montserrat;
+}
+.where-most-needed-card-child {
+  	position: absolute;
+  	top: 59.5px;
+  	left: 441.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.4);
+  	box-sizing: border-box;
+  	width: 61px;
+  	height: 1px;
+}
+.where-most-needed {
+  	position: absolute;
+  	top: 46px;
+  	left: 176px;
+  	font-size: 24px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	text-align: center;
+  	display: inline-block;
+  	width: 282px;
+  	height: 28px;
+}
+.where-most-needed-card-item {
+  	position: absolute;
+  	top: 59.5px;
+  	left: 132.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.4);
+  	box-sizing: border-box;
+  	width: 61px;
+  	height: 1px;
+}
+.where-most-needed-card {
+  	width: 636px;
+  	position: relative;
+  	height: 679px;
+  	z-index: 6;
+}
+.view-annual-report-button {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #bf311a;
+  	width: 196px;
+  	height: 48px;
+}
+.view-annual-report {
+  	position: absolute;
+  	top: 13px;
+  	left: 22px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+}
+.annual-report-button {
+  	position: absolute;
+  	top: 615px;
+  	left: 0px;
+  	width: 196px;
+  	height: 48px;
+  	color: #fff;
+  	font-family: Raleway;
+}
+.container-42 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(191, 49, 26, 0.08);
+  	width: 306px;
+  	height: 372px;
+}
+.countries {
+  	position: absolute;
+  	top: 288px;
+  	left: 109px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+}
+.b {
+  	position: absolute;
+  	top: 212px;
+  	left: 134px;
+  	font-size: 48px;
+  	line-height: 60px;
+  	text-transform: capitalize;
+  	font-family: Nunito;
+}
+.world-icon {
+  	position: absolute;
+  	top: 60px;
+  	left: 93px;
+  	width: 120px;
+  	height: 120px;
+  	object-fit: contain;
+}
+.container-4-parent {
+  	position: absolute;
+  	top: 200px;
+  	left: 990px;
+  	width: 306px;
+  	height: 372px;
+}
+.b1 {
+  	position: absolute;
+  	top: 212px;
+  	left: 136px;
+  	line-height: 60px;
+  	text-transform: capitalize;
+}
+.programs {
+  	position: absolute;
+  	top: 288px;
+  	left: 108px;
+  	font-size: 16px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	font-family: 'Open Sans';
+}
+.container-3-parent {
+  	position: absolute;
+  	top: 200px;
+  	left: 660px;
+  	width: 306px;
+  	height: 372px;
+  	font-size: 48px;
+  	font-family: Nunito;
+}
+.projects {
+  	position: absolute;
+  	top: 288px;
+  	left: 124px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+}
+.b2 {
+  	position: absolute;
+  	top: 212px;
+  	left: 124px;
+  	font-size: 48px;
+  	line-height: 60px;
+  	text-transform: capitalize;
+  	font-family: Nunito;
+}
+.container-2-parent {
+  	position: absolute;
+  	top: 200px;
+  	left: 330px;
+  	width: 306px;
+  	height: 372px;
+}
+.children {
+  	position: absolute;
+  	top: 288px;
+  	left: 120px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+}
+.b3 {
+  	position: absolute;
+  	top: 212px;
+  	left: 95px;
+  	font-size: 48px;
+  	line-height: 60px;
+  	text-transform: capitalize;
+  	font-family: Nunito;
+}
+.heart-icon {
+  	position: absolute;
+  	top: 60px;
+  	left: 93px;
+  	width: 120px;
+  	height: 120px;
+  	object-fit: cover;
+}
+.container-1-parent {
+  	position: absolute;
+  	top: 200px;
+  	left: 0px;
+  	width: 306px;
+  	height: 372px;
+}
+.see-your-impact-container {
+  	position: absolute;
+  	top: 44px;
+  	left: 0px;
+  	font-size: 39px;
+  	line-height: 50px;
+  	text-transform: capitalize;
+  	font-family: Raleway;
+}
+.financial-integrity-section-child {
+  	position: absolute;
+  	top: 16.5px;
+  	left: 182.5px;
+  	border-top: 1px solid rgba(0, 0, 0, 0.25);
+  	box-sizing: border-box;
+  	width: 83px;
+  	height: 1px;
+}
+.financial-integrity {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	font-weight: 600;
+}
+.financial-integrity-section {
+  	width: 1296px;
+  	position: relative;
+  	height: 663px;
+  	z-index: 7;
+  	color: #252a34;
+  	font-family: 'Open Sans';
+}
+.container-32 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 0px 10px 30px rgba(37, 42, 52, 0.08);
+  	background-color: #fff;
+  	width: 416px;
+  	height: 608px;
+}
+.read-more-button {
+  	position: absolute;
+  	top: 520px;
+  	left: 30px;
+  	background-color: #bf311a;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 12px 24px;
+  	color: #fff;
+  	font-family: Raleway;
+}
+.sed-diam-nonumy {
+  	margin: 0;
+  	white-space: pre-wrap;
+}
+.b4 {
+  	font-family: 'Open Sans';
+}
+.lorem-ipsum-dolor-container {
+  	position: absolute;
+  	top: 414px;
+  	left: 30px;
+  	line-height: 22px;
+  	text-transform: capitalize;
+  	color: #555;
+}
+.why-you-should {
+  	position: absolute;
+  	top: 370px;
+  	left: 30px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	font-family: Raleway;
+  	color: #252a34;
+}
+.jul-2021 {
+  	position: absolute;
+  	top: 0px;
+  	left: 26px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.calendar-icon {
+  	position: absolute;
+  	top: 2px;
+  	left: 0px;
+  	width: 18px;
+  	height: 20px;
+  	overflow: hidden;
+}
+.date {
+  	position: absolute;
+  	top: 330px;
+  	left: 178px;
+  	width: 98px;
+  	height: 24px;
+  	font-size: 14px;
+}
+.floyd-miles {
+  	position: absolute;
+  	top: 0px;
+  	left: 28px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.person-icon {
+  	position: absolute;
+  	top: 2px;
+  	left: 0px;
+  	width: 20px;
+  	height: 20px;
+  	overflow: hidden;
+}
+.author {
+  	position: absolute;
+  	top: 330px;
+  	left: 30px;
+  	width: 101px;
+  	height: 24px;
+  	font-size: 14px;
+}
+.blogcardphoto3-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 416px;
+  	height: 290px;
+  	object-fit: cover;
+}
+.blog-card-3 {
+  	position: absolute;
+  	top: 172px;
+  	left: 880px;
+  	width: 416px;
+  	height: 608px;
+}
+.date1 {
+  	position: absolute;
+  	top: 330px;
+  	left: 195px;
+  	width: 107px;
+  	height: 24px;
+  	font-size: 14px;
+}
+.author1 {
+  	position: absolute;
+  	top: 330px;
+  	left: 30px;
+  	width: 103px;
+  	height: 24px;
+  	font-size: 14px;
+}
+.blog-card-2 {
+  	position: absolute;
+  	top: 172px;
+  	left: 440px;
+  	width: 416px;
+  	height: 608px;
+}
+.lorem-ipsum-dolor2 {
+  	white-space: pre-wrap;
+}
+.lorem-ipsum-dolor-container2 {
+  	position: absolute;
+  	top: 414px;
+  	left: 30px;
+  	line-height: 22px;
+  	text-transform: capitalize;
+  	color: #555;
+  	display: inline-block;
+  	width: 345px;
+}
+.date2 {
+  	position: absolute;
+  	top: 330px;
+  	left: 214px;
+  	width: 106px;
+  	height: 24px;
+  	font-size: 14px;
+}
+.author2 {
+  	position: absolute;
+  	top: 330px;
+  	left: 30px;
+  	width: 125px;
+  	height: 24px;
+  	font-size: 14px;
+}
+.blog-card-1 {
+  	position: absolute;
+  	top: 172px;
+  	left: 2px;
+  	width: 416px;
+  	height: 608px;
+}
+.forward-back-buttons2 {
+  	position: absolute;
+  	top: 38px;
+  	left: 1164px;
+  	width: 132px;
+  	height: 56px;
+}
+.view-all2 {
+  	position: absolute;
+  	top: 54px;
+  	left: 1066px;
+  	font-size: 20px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	font-family: Raleway;
+  	color: #bf311a;
+}
+.stories-of-transformation-container {
+  	position: absolute;
+  	top: 44px;
+  	left: 0px;
+  	font-size: 39px;
+  	line-height: 50px;
+  	text-transform: capitalize;
+  	font-family: Raleway;
+  	color: #252a34;
+}
+.latest-news-section-child {
+  	position: absolute;
+  	top: 16.5px;
+  	left: 127.5px;
+  	border-top: 1px solid rgba(0, 0, 0, 0.25);
+  	box-sizing: border-box;
+  	width: 83px;
+  	height: 1px;
+}
+.latest-news {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+  	font-weight: 600;
+  	color: #252a34;
+}
+.latest-news-section {
+  	width: 1296px;
+  	position: relative;
+  	height: 780px;
+  	z-index: 8;
+  	color: #999;
+  	font-family: 'Open Sans';
+}
+.cafo-logo-icon {
+  	position: absolute;
+  	top: 79px;
+  	left: 549px;
+  	border-radius: 50%;
+  	width: 150px;
+  	height: 150px;
+  	object-fit: cover;
+}
+.charity-navigator-logo {
+  	position: absolute;
+  	top: 79px;
+  	left: 366px;
+  	width: 150px;
+  	height: 150px;
+  	object-fit: cover;
+}
+.ecfa-logo-icon {
+  	position: absolute;
+  	top: 79px;
+  	left: 183px;
+  	border-radius: 50%;
+  	width: 150px;
+  	height: 150px;
+  	object-fit: cover;
+}
+.candid-logo-icon {
+  	position: absolute;
+  	top: 79px;
+  	left: 0px;
+  	width: 150px;
+  	height: 150px;
+  	object-fit: cover;
+}
+.we-receive-some {
+  	position: absolute;
+  	top: 0px;
+  	left: 82px;
+  	line-height: 24px;
+  	font-weight: 600;
+}
+.charity-watchdog-section {
+  	width: 699px;
+  	position: relative;
+  	height: 229px;
+  	z-index: 9;
+  	font-size: 18px;
+  	color: #000;
+  	font-family: 'Open Sans';
+}
+.footer-container {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #252a34;
+  	width: 1437px;
+  	height: 512px;
+}
+.cafo-logo-small {
+  	position: absolute;
+  	top: 398.63px;
+  	left: 1185px;
+  	border-radius: 50%;
+  	width: 60px;
+  	height: 60px;
+  	object-fit: cover;
+}
+.charity-navigator-logo-small {
+  	position: absolute;
+  	top: 398.63px;
+  	left: 1109px;
+  	width: 60px;
+  	height: 60px;
+  	object-fit: cover;
+}
+.ecfa-logo-small {
+  	position: absolute;
+  	top: 398.63px;
+  	left: 1033px;
+  	border-radius: 50%;
+  	width: 60px;
+  	height: 60px;
+  	object-fit: cover;
+}
+.candid-logo-small {
+  	position: absolute;
+  	top: 398.63px;
+  	left: 957px;
+  	width: 60px;
+  	height: 60px;
+  	object-fit: cover;
+}
+.children-of-the-container {
+  	position: absolute;
+  	top: 386.63px;
+  	left: 565px;
+  	line-height: 28px;
+  	text-transform: capitalize;
+}
+.line3 {
+  	position: absolute;
+  	top: 263px;
+  	left: 0px;
+  	border-top: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 1297.1px;
+  	height: 1px;
+}
+.newsletter {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.newsletter-wrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 86px;
+  	height: 24px;
+}
+.join-our-community {
+  	position: absolute;
+  	top: 56px;
+  	left: 0px;
+  	line-height: 20px;
+  	font-weight: 600;
+  	color: #ccc;
+}
+.subscribe {
+  	position: relative;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-weight: 500;
+}
+.subscribe-wrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 302px;
+  	background-color: #bf311a;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 12px 24px;
+  	color: #fff;
+  	font-family: Montserrat;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 151px;
+  	background-color: #fff;
+  	width: 143px;
+  	height: 48px;
+}
+.enter-your-email {
+  	position: absolute;
+  	top: 15px;
+  	left: 163px;
+  	font-size: 14px;
+  	line-height: 18px;
+  	text-transform: capitalize;
+}
+.group-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 143px;
+  	height: 48px;
+}
+.enter-your-name {
+  	position: absolute;
+  	top: 15px;
+  	left: 11px;
+  	font-size: 14px;
+  	line-height: 18px;
+  	text-transform: capitalize;
+}
+.join-our-community-of-nation-c-parent {
+  	position: absolute;
+  	top: 54px;
+  	left: 0px;
+  	width: 431px;
+  	height: 76px;
+  	color: #555;
+}
+.subscribe-section {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 431px;
+  	height: 130px;
+}
+.social-media-icons {
+  	position: absolute;
+  	top: 36px;
+  	left: 2px;
+  	width: 132px;
+  	height: 32px;
+}
+.follow-us-section {
+  	position: absolute;
+  	top: 160px;
+  	left: 0px;
+  	width: 134px;
+  	height: 68px;
+}
+.newsletter-section {
+  	position: absolute;
+  	top: 0px;
+  	left: 881px;
+  	width: 431px;
+  	height: 228px;
+  	font-family: Raleway;
+}
+.donor-privacy-policy {
+  	position: absolute;
+  	top: 90px;
+  	left: 0px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.give-to-a {
+  	position: absolute;
+  	top: 54px;
+  	left: 0px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.donate {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	font-family: Raleway;
+}
+.donate-section {
+  	position: absolute;
+  	top: 0px;
+  	left: 661px;
+  	width: 166px;
+  	height: 186px;
+}
+.careers {
+  	position: absolute;
+  	top: 126px;
+  	left: 0px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.shop-our-store {
+  	position: absolute;
+  	top: 162px;
+  	left: 0px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.connect-section {
+  	position: absolute;
+  	top: 0px;
+  	left: 440px;
+  	width: 123px;
+  	height: 186px;
+}
+.get-involved-section {
+  	position: absolute;
+  	top: 0px;
+  	left: 221px;
+  	width: 128px;
+  	height: 186px;
+}
+.get-to-know-us-section {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 145px;
+  	height: 186px;
+}
+.links-section {
+  	position: absolute;
+  	top: 0px;
+  	left: 0.06px;
+  	width: 1312px;
+  	height: 228px;
+}
+.footer1 {
+  	position: absolute;
+  	top: 99.63px;
+  	left: 70.94px;
+  	width: 1312.1px;
+  	height: 263px;
+  	text-align: left;
+  	font-size: 16px;
+  	font-family: Montserrat;
+}
+.footer {
+  	width: 1437px;
+  	position: relative;
+  	height: 512px;
+  	z-index: 10;
+  	text-align: center;
+  	font-size: 12px;
+  	font-family: 'Open Sans';
+}
+.log-in {
+  	position: absolute;
+  	top: 11px;
+  	left: 847px;
+  	line-height: 24px;
+  	font-weight: 600;
+}
+.donate-container {
+  	position: absolute;
+  	top: 0px;
+  	left: 697px;
+  	background-color: rgba(255, 255, 255, 0);
+  	border: 1px solid #bf311a;
+  	box-sizing: border-box;
+  	width: 121px;
+  	height: 48px;
+}
+.donate1 {
+  	position: absolute;
+  	top: 11px;
+  	left: 726px;
+  	line-height: 27px;
+  	font-weight: 600;
+}
+.news {
+  	position: absolute;
+  	top: 10px;
+  	left: 616px;
+  	line-height: 27px;
+  	font-weight: 600;
+}
+.get-involved2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 27px;
+  	font-weight: 600;
+}
+.vector-icon {
+  	position: absolute;
+  	height: 23.33%;
+  	width: 8.73%;
+  	top: 37.86%;
+  	right: 0%;
+  	bottom: 38.8%;
+  	left: 91.27%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: contain;
+}
+.get-involved1 {
+  	position: absolute;
+  	width: calc(100% - 774px);
+  	top: 10px;
+  	right: 311px;
+  	left: 463px;
+  	height: 27px;
+}
+.vector-icon1 {
+  	position: absolute;
+  	height: 23.33%;
+  	width: 10.89%;
+  	top: 37.86%;
+  	right: 0%;
+  	bottom: 38.8%;
+  	left: 89.11%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: contain;
+}
+.our-work {
+  	position: absolute;
+  	width: calc(100% - 799px);
+  	top: 10px;
+  	right: 466px;
+  	left: 333px;
+  	height: 27px;
+}
+.vector-icon2 {
+  	position: absolute;
+  	height: 23.33%;
+  	width: 8.59%;
+  	top: 37.86%;
+  	right: 0%;
+  	bottom: 38.8%;
+  	left: 91.41%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: contain;
+}
+.ways-to-give {
+  	position: absolute;
+  	width: calc(100% - 772px);
+  	top: 10px;
+  	right: 593px;
+  	left: 179px;
+  	height: 27px;
+}
+.vector-icon3 {
+  	position: absolute;
+  	height: 23.33%;
+  	width: 7.28%;
+  	top: 37.86%;
+  	right: 0%;
+  	bottom: 38.8%;
+  	left: 92.72%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: contain;
+}
+.sponsor-a-child2 {
+  	position: absolute;
+  	width: calc(100% - 749px);
+  	top: 10px;
+  	right: 749px;
+  	left: 0px;
+  	height: 27px;
+}
+.menu {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 900px;
+  	height: 48px;
+}
+.menu-bar {
+  	width: 900px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 40px;
+  	left: 429px;
+  	height: 48px;
+  	z-index: 11;
+  	text-align: center;
+  	font-size: 18px;
+  	color: #bf311a;
+  	font-family: 'Open Sans';
+}
+.logo-icon {
+  	width: 246px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 23px;
+  	left: 99px;
+  	height: 80px;
+  	object-fit: cover;
+  	z-index: 12;
+}
+.home-page-wcampaign {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 0px 1px;
+  	box-sizing: border-box;
+  	gap: 109px 24px;
+  	text-align: left;
+  	font-size: 16px;
+  	color: #fff;
+  	font-family: Raleway;
+}
+
